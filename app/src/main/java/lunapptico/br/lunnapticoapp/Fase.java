@@ -10,6 +10,7 @@ public class Fase {
     private int opcoes[];
     private int pontuacao;
     private String nome_jogador;
+    public int test;
 
     public Fase(){
 
